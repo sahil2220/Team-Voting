@@ -37,6 +37,7 @@ export default class HomeScreen extends Component {
                 style={{ width: 300, height: 220, marginLeft: 5 }}
                 source={require('../assets/TeamImage.png')}
               />
+                        <Text> hlooo </Text>
             </TouchableOpacity>
           </View>
           <View style={styles.ratingContainer}>
